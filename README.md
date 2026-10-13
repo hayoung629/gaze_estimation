@@ -163,6 +163,6 @@ conda install -c conda-forge jupyter matplotlib # for visualization and Eda
 python -m preprocess.mpii
 python train_mpl.py 
 
-## 한계와 계획
+### 한계와 계획
 - 한계: MLP는 이미지의 공간 구조를 미사용
 - 계획: 합성곱 신경망(CNN)을 구현해 비교
